@@ -6,4 +6,12 @@
 body {
 	background-color: silver;
 	text-align: center;
+	scroll-behavior: smooth;
+}
+
+.screen {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
 }
